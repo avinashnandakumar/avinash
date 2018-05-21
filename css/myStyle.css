@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+p{
+	font-size: 35px; 
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	color: black;
+}
+h1{
+	padding-top: 20px;
+	font-size: 125px;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	color: #2E606F;
+}
+body{
+	background-color: #c3edd7;
+}
+nav{
+	margin-left: 75px;
+	margin-right: 75px;
+	margin-top: 15px;
+	background-color: #2E606F;
+	height: 50px;
+	border-radius: 25px;
+}
+.introduction{
+	margin-top: 65px;
+}
+.blurb {
+	margin:auto
+	color: black;
+	line-height: 45px;
+	position:relative;
+	bottom: 75px;
+}
+.aspects{
+	width: 250px;
+	padding: 50px;
+}
+.icons{
+	position: relative;
+	bottom: 30px;
+	text-align: center;
+
+}
+.navoptions{
+	text-align: right;
+	font-size: 30px;
+	font-family: 'Indie Flower', cursive;
+	color: black;
+	padding-right: 10px;
+	padding-top: 5px;
+}
+
+.typewriter h1 {
+  font-size: 125px;
+  text-align: center;
+  color: #2E606F;
+  font-family: 'Indie Flower', cursive;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em transparent; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em;
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+	
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: transparent; }
+}
+
+
+
