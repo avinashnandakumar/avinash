@@ -1,37 +1,55 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
-p{
-	font-size: 35px; 
-	text-align: center;
+body{
 	font-family: 'Indie Flower', cursive;
+	margin: 0px;
+}
+
+p{
+	font-size: 24px; 
+	text-align: left;
+	margin-left: 45px;
 	color: black;
 }
 h1{
-	padding-top: 20px;
 	font-size: 125px;
-	font-family: 'Indie Flower', cursive;
 	text-align: center;
 	color: #2E606F;
 }
-body{
-	background-color: #c3edd7;
-}
 nav{
-	margin-left: 75px;
-	margin-right: 75px;
-	margin-top: 15px;
-	background-color: #2E606F;
-	height: 50px;
-	border-radius: 25px;
+	padding-top: 65px;
+	padding-bottom:65px;
+}
+ul{
+	
+	margin: auto; 
+	width: 600px;
+}
+li{
+	display: inline;
+	padding: 0px 15px 0px 15px;
+	font-size: 24px;
+	text-align: right;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+li a.active{
+	background-color: black;
+	color: white;
+	border-radius: 50px; 
+	text-decoration: none;
+	position: relative;
 }
 .introduction{
-	margin-top: 65px;
+	background-color: #c3edd7;
 }
 .blurb {
-	margin:auto
+	margin: 0px 0px 0px 0px;
 	color: black;
 	line-height: 45px;
-	position:relative;
-	bottom: 75px;
+	text-align: center;
 }
 .aspects{
 	width: 250px;
@@ -39,24 +57,96 @@ nav{
 }
 .icons{
 	position: relative;
-	bottom: 30px;
+	bottom: 0px;
 	text-align: center;
 
 }
+
+/*Actual Content Style start with Education*/
+
+.education{
+	padding: 20px 30px 20px 30px;
+	display: inline-block;
+
+}
+.schoollogo{
+	height: 300px;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.college{
+	float: left;
+	width: 45%;
+	padding: 2.5%;
+	align-content: center;
+	
+}
+.highschool{
+	width: 45%;
+	float: left;
+	padding: 2.5%;
+}
+.resumeheading{
+	font-size: 40px;
+	padding: 0px 700px 0px 10px;
+	margin: 0;
+	text-align: left;
+	
+}
+.resumeentry{
+	font-size: 28px;
+	text-align: center;
+}
+.resumeinfo{
+	font-family: 'Indie Flower', cursive;
+	font-size: 24px;
+	margin: 0px 0px 0px 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
 .navoptions{
 	text-align: right;
 	font-size: 30px;
-	font-family: 'Indie Flower', cursive;
 	color: black;
 	padding-right: 10px;
 	padding-top: 5px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .typewriter h1 {
   font-size: 125px;
   text-align: center;
   color: #2E606F;
-  font-family: 'Indie Flower', cursive;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em transparent; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
@@ -80,5 +170,9 @@ nav{
   50% { border-color: transparent; }
 }
 
-
+@media screen and (max-width: 600px) {
+  .college, .highschool {
+    width: 100%;
+  }
+}
 
