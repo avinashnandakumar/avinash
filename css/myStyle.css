@@ -19,17 +19,12 @@ nav{
 	padding-top: 65px;
 	padding-bottom:65px;
 }
-ul{
+ul.roastroast{
 	display: block;
 	margin-right: auto; 
 	margin-left: auto; 
 }
-li{
-	display: inline;
-	padding: 0px 0px 0px 15px;
-	font-size: 24px;
-	text-align: right;
-}
+
 
 a{
 	text-decoration: none;
@@ -42,6 +37,14 @@ li a.active{
 	text-decoration: none;
 	position: relative;
 }
+li.roast{
+	display: inline;
+	padding: 0px 0px 0px 15px;
+	font-size: 24px;
+	text-align: right;
+}
+
+
 .introduction{
 	background-color: #c3edd7;
 	text-align: center;
@@ -145,7 +148,10 @@ footer{
 	height: 50px;
 }
 
-
+.roaster{
+	font-size: 18px;
+	padding: 5px 5px;
+}
 
 
 
@@ -211,7 +217,10 @@ footer{
 	width: 200px;
 }
 
-
+.panel{
+	margin-top: 15px;
+	border-radius: 10px;
+}
 
 
 

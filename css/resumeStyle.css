@@ -1,0 +1,23 @@
+#myface{
+	height: 300px;
+	border-radius: 75px;
+	padding: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.picture{
+	text-align: center;
+}
+.sidebar{
+	background-color: skyblue;
+	border-radius: 20px;
+	margin: 15px;
+}
+.infotitle{
+	padding-top: 15px;
+	font-weight: bold;
+	padding-left: 25px;
+}
+.info{
+	padding-top: 15px;
+}
