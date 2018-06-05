@@ -15,17 +15,6 @@ h1{
 	text-align: center;
 	color: #2E606F;
 }
-nav{
-	padding-top: 65px;
-	padding-bottom:65px;
-}
-ul.roastroast{
-	display: block;
-	margin-right: auto; 
-	margin-left: auto; 
-}
-
-
 a{
 	text-decoration: none;
 	color: black;
@@ -38,15 +27,12 @@ li a.active{
 	position: relative;
 }
 li.roast{
-	display: inline;
-	padding: 0px 0px 0px 15px;
-	font-size: 24px;
-	text-align: right;
+	font-size: 20px;
+	text-align: center;
 }
 
 
 .introduction{
-	background-color: #c3edd7;
 	text-align: center;
 }
 .blurb {

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Projects </title>
+	<title> Resume </title>
 	<!-- <link rel="stylesheet" href="css/myStyle.css"> -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -12,19 +12,42 @@
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-		<nav class="introduction">  
-		<ul class="roastroast">
-			<li class="roast"> <a href="index.html" >Home </a> </li>
-			<li class="roast"> <a href="resume.html"   class= "active"> Resume </li>
-			<li class="roast"> <a href="projects.html"> Projects </a> </li>
-			<li class="roast"> <a href="hobbies.html" > Hobbies </a> </li>
-			<li class="roast"> <a href="personal.html"> Personal </a></li>
-			<li class="roast"> <a href="contact.html"> Contact Me </a></li>
-		</ul>
-	</nav>
+		<nav class="navbar navbar-default">
+	  		<div class="container-fluid">
+	    		<div class="navbar-header">
+	     		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span> 
+	      		</button>
+	      		<a class="navbar-brand" href="#"> Avi</a>
+	    		</div>
+	    		<div class="collapse navbar-collapse text-center" id="myNavbar">
+	      			<ul class="nav navbar-nav text-center">
+				        <li class="roast"><a href="#">Home</a></li>
+				        <li class="roast active"><a href="#">Resume</a></li>
+				        <li class="roast"><a href="#">Projects</a></li> 
+				        <li class="roast"><a href="#">Hobbies</a></li>
+				        <li class="roast"><a href="#">Personal</a></li>
+				        <li class="roast"><a href="#">Contact Me</a></li> 
+	      			</ul>
+	   			</div>
+	  		</div>
+		</nav>
+		<!-- <nav class="introduction">  
+			<ul class="roastroast">
+				<li class="roast"> <a href="index.html" >Home </a> </li>
+				<li class="roast"> <a href="resume.html"   class= "active"> Resume </li>
+				<li class="roast"> <a href="projects.html"> Projects </a> </li>
+				<li class="roast"> <a href="hobbies.html" > Hobbies </a> </li>
+				<li class="roast"> <a href="personal.html"> Personal </a></li>
+				<li class="roast"> <a href="contact.html"> Contact Me </a></li>
+			</ul>
+		</nav> -->
+	
 
 	<div class="typewriter introduction"> 
-		<h1> Resume </h> 
+		<h1 id="page"> Resume </h> 
 	</div>
 
 
@@ -41,8 +64,15 @@
 				<div class="row picture">
 					<img id="myface" src="images/qualityprofile.jpg" class="img-responsive img-rounded" alt="Image">
 				</div>
-				
-				
+				<br>
+				<div class="row">
+					<div class="col-sm-1"> </div>
+					<div class="text-center col-sm-10" style="font-size: 16px">
+					Passionate and hard-working student with natural leadership, organizational, and people skills. I am an inspired, optimistic team leader and role player who will be tenacious and proactive to bring more success to your organization
+				</div>
+				<div class="col-sm-1"></div>
+				</div>
+				<br>
 				<div class="row">
 					<div class="col-sm-3 infotitle text-center">
 						Email: 
@@ -52,6 +82,7 @@
 				avinashkumar1616@gmail.com
 					</div>
 				</div>
+				<br>
 				<div class="row">
 					<div class="col-sm-3 infotitle text-center">
 						Phone:
@@ -60,6 +91,7 @@
 						(805) - 603 - 5340
 					</div>
 				</div>
+				<br>
 				<div class="row">
 					<div class="col-sm-3 infotitle text-center">
 						Summer Address: 
@@ -72,6 +104,7 @@
 						</a>
 					</div>
 				</div>
+				<br>
 				<div class="row">
 					<div class="col-sm-3 infotitle text-center">
 						School Address:
@@ -79,13 +112,13 @@
 					<div class="col-sm-9 info text-center">
 						<a target="_blank" href="https://www.google.com/maps/place/2616+Telegraph+Ave,+Berkeley,+CA+94704/@37.8624979,-122.2596004,19z/data=!3m1!4b1!4m5!3m4!1s0x80857c2c7033e6b7:0x7758ecb243b80b0f!8m2!3d37.8624979!4d-122.2590532">
 						2616 Telegraph Ave
-						<br>
 						Apt #307
 						<br>
 						Berkeley, CA 94704
 						</a>
 					</div>
 				</div>
+				<br>
 				<div class="row">
 					<div class="col-sm-3 infotitle text-center">
 						Resume:
@@ -99,7 +132,125 @@
 				</div>
 				<br>
 				</div>
-				
+				<div class="row"> 
+					<div id="skills" class="panel panel-default">
+						<div class="panel-heading" style="font-size: 20pt">
+							Skills
+						</div>
+						<div class="panel-body" style="font-size: 13pt">
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								Java <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="java"></div>
+								</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								Python <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="python"></div>
+								</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								SQL <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="sql"></div>
+								</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								HTML <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="html"></div>
+								</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								CSS <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="css"></div>
+								</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								JavaScript <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="javascript"></div>
+								</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								Bootstrap <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="bootstrap"></div>
+								</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								p5 <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="p5"></div>
+								</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								TensorFlow <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="tensorflow"></div>
+								</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								Android Studio <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="androidstudio"></div>
+								</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-6 text-center">
+								Git Workflow <br>
+								</div>
+								<div class="col-sm-6">
+								<div id="myProgress">
+  								<div id="gitworkflow"></div>
+								</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 			<div id="edu" class="col-sm-5">
 				
@@ -127,7 +278,7 @@
 
 				<div class="panel panel-default">
 				<div class="panel-heading" style="font-size: 20pt;" > Experiences </div>
-				<div class="panel-body">
+				<div class="panel-body" style="font-size: 12pt">
 					<h4> <b> Captain of Varsity Mock Trial </b> </h4>
 					Adolfo Camarillo High School
 					<br>
