@@ -113,6 +113,12 @@ a:hover {
 #page{
 	padding: 10px;
 	position: relative;
-	top:-20px;
+	top:-22px;
 	background-color: #c3edd7;
+}
+.footer{
+	background-color: #c3edd7;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin:0;
 }

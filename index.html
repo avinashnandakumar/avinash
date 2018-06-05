@@ -6,6 +6,7 @@
 	<title> Avinash Nandakumar </title>
 	<meta charset="utf-8">
 	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">  -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> 
 	<link rel="stylesheet" href="css/myStyle.css">
 
 	<script type="text/javascript" src="scroll.js"></script>
@@ -14,7 +15,30 @@
 
 
 <body>
-	<nav class = introduction>  
+	<div class="top">
+	<nav class="navbar navbar-default">
+	  		<div class="container-fluid">
+	    		<div class="navbar-header">
+	     		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span> 
+	      		</button>
+	      		<a class="navbar-brand" href="index.html"> Avi</a>
+	    		</div>
+	    		<div class="collapse navbar-collapse text-center" id="myNavbar">
+	      			<ul class="nav navbar-nav text-center">
+				        <li class="roast active"><a href="index.html">Home</a></li>
+				        <li class="roast"><a href="resume.html">Resume</a></li>
+				        <li class="roast"><a href="projects.html">Projects</a></li> 
+				        <li class="roast"><a href="hobbies.html">Hobbies</a></li>
+				        <li class="roast"><a href="personal.html">Personal</a></li>
+				        <li class="roast"><a href="contact.html">Contact Me</a></li> 
+	      			</ul>
+	   			</div>
+	  		</div>
+		</nav>
+	<!-- <nav class = introduction>  
 		<ul class="roastroast">
 			<li class="roast"> <a href="index.html" class= "active" >Home </a> </li>
 			<li class="roast"> <a href="resume.html" > Resume </li>
@@ -24,9 +48,11 @@
 			<li class="roast"> <a href="contact.html"> Contact Me </a></li>
 		</ul>
 	</nav>
-
-	<div class="typewriter introduction"> 
-		<h1> Hi, I'm Avi! </h> 
+ -->
+	<div class="row typewriter introduction"> 
+		<div class="col-sm-3"></div>
+		<div class="col-sm-6"><h1> Hi, I'm Avi! </h> </div>
+		<div class="col-sm-3"></div>
 	</div>
 	<div class="introduction">
 		<p id="blurb" class = "introduction blurb"> I'm currently a second year UC Berkeley <br> 
@@ -50,6 +76,7 @@
 		</figure>
 		
 	</div>
+</div>
 	<div class="education">
 		<h3 id="educationsection" class= "resumeheading"> <b> Education </b> </h3>
 		<div class="college">
