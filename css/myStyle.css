@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+.row{
+	margin: 0px;
+}
 body{
 	font-family: 'Indie Flower', cursive;
 	margin: 0px;
@@ -139,10 +142,11 @@ figcaption{
 	text-align:center;
 	padding: 2%;
 }
-footer{
-	margin-top: 2%;
+.footer{
 	background-color: #c3edd7;
-	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin:0;
 }
 .bottom{
 	background-color: #c3edd7;
