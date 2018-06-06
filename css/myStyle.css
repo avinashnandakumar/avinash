@@ -50,7 +50,6 @@ li.roast{
   display: inline-block;
   float: none;
   vertical-align: top;
- 
 }
 .top{
 	background-color: #c3edd7;
@@ -61,7 +60,7 @@ li.roast{
 	width: 100%;
 	background-color: #c3edd7;
 	margin: 0px;
-}
+	}
 .blurb {
 	margin: 0px 0px 0px 0px;
 	color: black;
@@ -238,20 +237,7 @@ figcaption{
 }
 
 
-.typewriter h1 {
-  font-size: 95px;
-  text-align: center;
-  color: #2E606F;
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em transparent; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .05em;
-  animation: 
-    typing 3.5s steps(30, end),
-    blink-caret .5s step-end infinite;
-	
-}
+
 
 /* The typing effect */
 @keyframes typing {
@@ -265,9 +251,36 @@ figcaption{
   50% { border-color: transparent; }
 }
 
-@media screen and (max-width: 600px) {
-  .college, .highschool {
-    width: 100%;
-  }
+@media screen and (max-width: 200000000px) {
+  .typewriter h1 {
+  font-size: 100px;
+  text-align: center;
+  color: #2E606F;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em transparent; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .05em;
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+	
+}
+}
+@media screen and (max-width: 1200px) {
+  .typewriter h1 {
+  font-size: 65px;
+  text-align: center;
+  color: #2E606F;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em transparent; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .05em;
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+	
+}
 }
 

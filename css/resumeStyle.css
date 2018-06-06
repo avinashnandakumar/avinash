@@ -1,5 +1,5 @@
 #myface{
-	width: 91%;
+	width: 100%;
 	border-radius: 25px;
 	/*padding-top: 3px;*/
 	margin-left: auto;
@@ -114,11 +114,19 @@ a:hover {
 	padding: 10px;
 	/*position: relative;
 	top:-22px;
-	background-color: #c3edd7;*/
+	/*background-color: #c3edd7;*/
 }
 .footer{
 	background-color: #c3edd7;
 	padding-top: 15px;
 	padding-bottom: 15px;
 	margin:0;
+}
+.introduction2{
+	text-align: center;
+	width: 100%;
+	background-color: #c3edd7;
+	margin: 0px;
+	position: relative;
+	top: -20px;
 }
