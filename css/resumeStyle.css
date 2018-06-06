@@ -112,9 +112,9 @@ a:hover {
 }
 #page{
 	padding: 10px;
-	position: relative;
+	/*position: relative;
 	top:-22px;
-	background-color: #c3edd7;
+	background-color: #c3edd7;*/
 }
 .footer{
 	background-color: #c3edd7;
