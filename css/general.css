@@ -15,15 +15,17 @@ body{
   vertical-align: top;
 }	
 
-
+.fill{
+    display: block;
+}
 /*For typewriter intro*/
 .introduction2{
 	text-align: center;
 	width: 100%;
+    height: auto;
 	background-color: #c3edd7;
-	margin: 0px;
-	position: relative;
-	top: -20px;
+	margin: auto;
+	/*position: relative;top: -20px;*/
 }
 
 
