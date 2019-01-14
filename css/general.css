@@ -6,7 +6,17 @@ body{
 	margin: 0px;
 	width: 100%;
 }
-
+.footer{
+    background-color: #c3edd7;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin:0;
+}
+.socialmedia{
+    padding: 2% 2% 2% 2%;
+    width: 50px;
+    height: 50px;
+}
 /*For navigation bar*/
 .roast{
 	font-size: 20px;
