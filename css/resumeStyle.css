@@ -39,6 +39,18 @@ a:hover {
     background-color: grey;
    	border-radius: 20px;
 }
+#Clang{
+    width: 75%;
+    height: 13pt;
+    background-color: green;
+    border-radius: 20px;
+}
+#Cplus {
+    width: 65%;
+    height: 13pt;
+    background-color: green;
+    border-radius: 20px;
+}
 #java {
     width: 85%;
     height: 13pt;
@@ -76,7 +88,7 @@ a:hover {
     border-radius: 20px;
 }
 #bootstrap {
-    width: 75%;
+    width: 85%;
     height: 13pt;
     background-color: green;
     border-radius: 20px;
@@ -94,7 +106,7 @@ a:hover {
     border-radius: 20px;
 }
 #androidstudio {
-    width: 65%;
+    width: 85%;
     height: 13pt;
     background-color: green;
     border-radius: 20px;
