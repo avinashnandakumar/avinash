@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Airplanes"
+	indexPageName="airplanes.html"
+
+>
+  <image imageURL="images/IMG-20180804-WA0039.jpg"
+	thumbURL="thumbs/IMG-20180804-WA0039.jpg"
+	linkURL="images/IMG-20180804-WA0039.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\IMG-20180804-WA0039.jpg">
+    <title><![CDATA[IMG-20180804-WA0039]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180804_073253.jpg"
+	thumbURL="thumbs/20180804_073253.jpg"
+	linkURL="images/20180804_073253.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\20180804_073253.jpg">
+    <title><![CDATA[20180804_073253]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2486.jpg"
+	thumbURL="thumbs/IMG_2486.jpg"
+	linkURL="images/IMG_2486.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\IMG_2486.jpg">
+    <title><![CDATA[IMG_2486]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180802_165421.jpg"
+	thumbURL="thumbs/20180802_165421.jpg"
+	linkURL="images/20180802_165421.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\20180802_165421.jpg">
+    <title><![CDATA[20180802_165421]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2527.jpg"
+	thumbURL="thumbs/IMG_2527.jpg"
+	linkURL="images/IMG_2527.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\IMG_2527.jpg">
+    <title><![CDATA[IMG_2527]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180804_072957.jpg"
+	thumbURL="thumbs/20180804_072957.jpg"
+	linkURL="images/20180804_072957.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\20180804_072957.jpg">
+    <title><![CDATA[20180804_072957]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2530.jpg"
+	thumbURL="thumbs/IMG_2530.jpg"
+	linkURL="images/IMG_2530.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\IMG_2530.jpg">
+    <title><![CDATA[IMG_2530]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3284.jpg"
+	thumbURL="thumbs/IMG_3284.jpg"
+	linkURL="images/IMG_3284.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\IMG_3284.jpg">
+    <title><![CDATA[IMG_3284]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3299.jpg"
+	thumbURL="thumbs/IMG_3299.jpg"
+	linkURL="images/IMG_3299.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\IMG_3299.jpg">
+    <title><![CDATA[IMG_3299]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3300.jpg"
+	thumbURL="thumbs/IMG_3300.jpg"
+	linkURL="images/IMG_3300.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\IMG_3300.jpg">
+    <title><![CDATA[IMG_3300]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3302.jpg"
+	thumbURL="thumbs/IMG_3302.jpg"
+	linkURL="images/IMG_3302.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Airplane\IMG_3302.jpg">
+    <title><![CDATA[IMG_3302]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
