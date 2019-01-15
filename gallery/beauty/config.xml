@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Beauty"
+	useThumbDots="false"
+	indexPageName="beauty.html"
+
+>
+  <image imageURL="images/1.jpg"
+	thumbURL="thumbs/1.jpg"
+	linkURL="images/1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\1.jpg">
+    <title><![CDATA[1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3.jpg"
+	thumbURL="thumbs/3.jpg"
+	linkURL="images/3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\3.jpg">
+    <title><![CDATA[3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2824.jpg"
+	thumbURL="thumbs/IMG_2824.jpg"
+	linkURL="images/IMG_2824.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_2824.jpg">
+    <title><![CDATA[IMG_2824]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20171223_165844.jpg"
+	thumbURL="thumbs/20171223_165844.jpg"
+	linkURL="images/20171223_165844.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\20171223_165844.jpg">
+    <title><![CDATA[20171223_165844]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snapchat-1042411563.jpg"
+	thumbURL="thumbs/Snapchat-1042411563.jpg"
+	linkURL="images/Snapchat-1042411563.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\Snapchat-1042411563.jpg">
+    <title><![CDATA[Snapchat-1042411563]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170603_002455.jpg"
+	thumbURL="thumbs/20170603_002455.jpg"
+	linkURL="images/20170603_002455.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\20170603_002455.jpg">
+    <title><![CDATA[20170603_002455]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20180708_193300_096.jpg"
+	thumbURL="thumbs/IMG_20180708_193300_096.jpg"
+	linkURL="images/IMG_20180708_193300_096.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_20180708_193300_096.jpg">
+    <title><![CDATA[IMG_20180708_193300_096]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20180515_203637_636.jpg"
+	thumbURL="thumbs/IMG_20180515_203637_636.jpg"
+	linkURL="images/IMG_20180515_203637_636.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_20180515_203637_636.jpg">
+    <title><![CDATA[IMG_20180515_203637_636]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/received_1823198971064343.jpg"
+	thumbURL="thumbs/received_1823198971064343.jpg"
+	linkURL="images/received_1823198971064343.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\received_1823198971064343.jpg">
+    <title><![CDATA[received_1823198971064343]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20180515_203637_639.jpg"
+	thumbURL="thumbs/IMG_20180515_203637_639.jpg"
+	linkURL="images/IMG_20180515_203637_639.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_20180515_203637_639.jpg">
+    <title><![CDATA[IMG_20180515_203637_639]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2733.jpg"
+	thumbURL="thumbs/IMG_2733.jpg"
+	linkURL="images/IMG_2733.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_2733.jpg">
+    <title><![CDATA[IMG_2733]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7.jpg"
+	thumbURL="thumbs/7.jpg"
+	linkURL="images/7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\7.jpg">
+    <title><![CDATA[7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20180723_020813_459.jpg"
+	thumbURL="thumbs/IMG_20180723_020813_459.jpg"
+	linkURL="images/IMG_20180723_020813_459.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_20180723_020813_459.jpg">
+    <title><![CDATA[IMG_20180723_020813_459]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20171223_170920.jpg"
+	thumbURL="thumbs/20171223_170920.jpg"
+	linkURL="images/20171223_170920.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\20171223_170920.jpg">
+    <title><![CDATA[20171223_170920]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20171203_172747.jpg"
+	thumbURL="thumbs/20171203_172747.jpg"
+	linkURL="images/20171203_172747.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\20171203_172747.jpg">
+    <title><![CDATA[20171203_172747]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20171222_165106.jpg"
+	thumbURL="thumbs/20171222_165106.jpg"
+	linkURL="images/20171222_165106.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\20171222_165106.jpg">
+    <title><![CDATA[20171222_165106]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2738.jpg"
+	thumbURL="thumbs/IMG_2738.jpg"
+	linkURL="images/IMG_2738.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_2738.jpg">
+    <title><![CDATA[IMG_2738]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180416_192604.jpg"
+	thumbURL="thumbs/20180416_192604.jpg"
+	linkURL="images/20180416_192604.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\20180416_192604.jpg">
+    <title><![CDATA[20180416_192604]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6.jpg"
+	thumbURL="thumbs/6.jpg"
+	linkURL="images/6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\6.jpg">
+    <title><![CDATA[6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/received_1772809499436624.jpg"
+	thumbURL="thumbs/received_1772809499436624.jpg"
+	linkURL="images/received_1772809499436624.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\received_1772809499436624.jpg">
+    <title><![CDATA[received_1772809499436624]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2558.jpg"
+	thumbURL="thumbs/IMG_2558.jpg"
+	linkURL="images/IMG_2558.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_2558.jpg">
+    <title><![CDATA[IMG_2558]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2676.jpg"
+	thumbURL="thumbs/IMG_2676.jpg"
+	linkURL="images/IMG_2676.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_2676.jpg">
+    <title><![CDATA[IMG_2676]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2700.jpg"
+	thumbURL="thumbs/IMG_2700.jpg"
+	linkURL="images/IMG_2700.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_2700.jpg">
+    <title><![CDATA[IMG_2700]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.jpg"
+	thumbURL="thumbs/5.jpg"
+	linkURL="images/5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\5.jpg">
+    <title><![CDATA[5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20180515_203637_640.jpg"
+	thumbURL="thumbs/IMG_20180515_203637_640.jpg"
+	linkURL="images/IMG_20180515_203637_640.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_20180515_203637_640.jpg">
+    <title><![CDATA[IMG_20180515_203637_640]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170623_141842.jpg"
+	thumbURL="thumbs/20170623_141842.jpg"
+	linkURL="images/20170623_141842.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\20170623_141842.jpg">
+    <title><![CDATA[20170623_141842]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20170623-WA0008.jpg"
+	thumbURL="thumbs/IMG-20170623-WA0008.jpg"
+	linkURL="images/IMG-20170623-WA0008.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG-20170623-WA0008.jpg">
+    <title><![CDATA[IMG-20170623-WA0008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2922.jpg"
+	thumbURL="thumbs/IMG_2922.jpg"
+	linkURL="images/IMG_2922.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_2922.jpg">
+    <title><![CDATA[IMG_2922]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170615_140742-EFFECTS.jpg"
+	thumbURL="thumbs/20170615_140742-EFFECTS.jpg"
+	linkURL="images/20170615_140742-EFFECTS.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\20170615_140742-EFFECTS.jpg">
+    <title><![CDATA[20170615_140742-EFFECTS]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3077.jpg"
+	thumbURL="thumbs/IMG_3077.jpg"
+	linkURL="images/IMG_3077.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_3077.jpg">
+    <title><![CDATA[IMG_3077]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3137.jpg"
+	thumbURL="thumbs/IMG_3137.jpg"
+	linkURL="images/IMG_3137.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_3137.jpg">
+    <title><![CDATA[IMG_3137]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2981.jpg"
+	thumbURL="thumbs/IMG_2981.jpg"
+	linkURL="images/IMG_2981.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_2981.jpg">
+    <title><![CDATA[IMG_2981]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3315.jpg"
+	thumbURL="thumbs/IMG_3315.jpg"
+	linkURL="images/IMG_3315.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_3315.jpg">
+    <title><![CDATA[IMG_3315]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20171114_220651_393.jpg"
+	thumbURL="thumbs/IMG_20171114_220651_393.jpg"
+	linkURL="images/IMG_20171114_220651_393.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_20171114_220651_393.jpg">
+    <title><![CDATA[IMG_20171114_220651_393]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Snapchat-1252289417.jpg"
+	thumbURL="thumbs/Snapchat-1252289417.jpg"
+	linkURL="images/Snapchat-1252289417.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\Snapchat-1252289417.jpg">
+    <title><![CDATA[Snapchat-1252289417]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.jpg"
+	thumbURL="thumbs/2.jpg"
+	linkURL="images/2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\2.jpg">
+    <title><![CDATA[2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_20171114_220651_398.jpg"
+	thumbURL="thumbs/IMG_20171114_220651_398.jpg"
+	linkURL="images/IMG_20171114_220651_398.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG_20171114_220651_398.jpg">
+    <title><![CDATA[IMG_20171114_220651_398]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180512_023326.jpg"
+	thumbURL="thumbs/20180512_023326.jpg"
+	linkURL="images/20180512_023326.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\20180512_023326.jpg">
+    <title><![CDATA[20180512_023326]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20171005_151012.jpg"
+	thumbURL="thumbs/20171005_151012.jpg"
+	linkURL="images/20171005_151012.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\20171005_151012.jpg">
+    <title><![CDATA[20171005_151012]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20170704-WA0003.jpg"
+	thumbURL="thumbs/IMG-20170704-WA0003.jpg"
+	linkURL="images/IMG-20170704-WA0003.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\IMG-20170704-WA0003.jpg">
+    <title><![CDATA[IMG-20170704-WA0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/received_1711407142243527.jpg"
+	thumbURL="thumbs/received_1711407142243527.jpg"
+	linkURL="images/received_1711407142243527.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\received_1711407142243527.jpg">
+    <title><![CDATA[received_1711407142243527]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/received_1759508347433406.jpg"
+	thumbURL="thumbs/received_1759508347433406.jpg"
+	linkURL="images/received_1759508347433406.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\received_1759508347433406.jpg">
+    <title><![CDATA[received_1759508347433406]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/received_1781719305212310.jpg"
+	thumbURL="thumbs/received_1781719305212310.jpg"
+	linkURL="images/received_1781719305212310.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\received_1781719305212310.jpg">
+    <title><![CDATA[received_1781719305212310]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/received_1823199031064337.jpg"
+	thumbURL="thumbs/received_1823199031064337.jpg"
+	linkURL="images/received_1823199031064337.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\received_1823199031064337.jpg">
+    <title><![CDATA[received_1823199031064337]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/received_1823208441063396.jpg"
+	thumbURL="thumbs/received_1823208441063396.jpg"
+	linkURL="images/received_1823208441063396.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\received_1823208441063396.jpg">
+    <title><![CDATA[received_1823208441063396]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/received_1869190419798531.jpg"
+	thumbURL="thumbs/received_1869190419798531.jpg"
+	linkURL="images/received_1869190419798531.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\received_1869190419798531.jpg">
+    <title><![CDATA[received_1869190419798531]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/received_1869190453131861.jpg"
+	thumbURL="thumbs/received_1869190453131861.jpg"
+	linkURL="images/received_1869190453131861.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\received_1869190453131861.jpg">
+    <title><![CDATA[received_1869190453131861]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/received_2068022846772363.jpg"
+	thumbURL="thumbs/received_2068022846772363.jpg"
+	linkURL="images/received_2068022846772363.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Landscapes\received_2068022846772363.jpg">
+    <title><![CDATA[received_2068022846772363]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

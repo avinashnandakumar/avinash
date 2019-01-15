@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+		galleryTitle="Family"
+	indexPageName="family.html"
+
+>
+  <image imageURL="images/20170616_175710.jpg"
+	thumbURL="thumbs/20170616_175710.jpg"
+	linkURL="images/20170616_175710.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Family\20170616_175710.jpg">
+    <title><![CDATA[20170616_175710]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180513_124721.jpg"
+	thumbURL="thumbs/20180513_124721.jpg"
+	linkURL="images/20180513_124721.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Family\20180513_124721.jpg">
+    <title><![CDATA[20180513_124721]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20171224_114315.jpg"
+	thumbURL="thumbs/20171224_114315.jpg"
+	linkURL="images/20171224_114315.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Family\20171224_114315.jpg">
+    <title><![CDATA[20171224_114315]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20181222_193537.jpg"
+	thumbURL="thumbs/20181222_193537.jpg"
+	linkURL="images/20181222_193537.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Family\20181222_193537.jpg">
+    <title><![CDATA[20181222_193537]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20171224_143854.jpg"
+	thumbURL="thumbs/20171224_143854.jpg"
+	linkURL="images/20171224_143854.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Family\20171224_143854.jpg">
+    <title><![CDATA[20171224_143854]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20181226_141520(0).jpg"
+	thumbURL="thumbs/20181226_141520(0).jpg"
+	linkURL="images/20181226_141520(0).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Family\20181226_141520(0).jpg">
+    <title><![CDATA[20181226_141520(0)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20171222_161359.jpg"
+	thumbURL="thumbs/20171222_161359.jpg"
+	linkURL="images/20171222_161359.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Family\20171222_161359.jpg">
+    <title><![CDATA[20171222_161359]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170620_162553.jpg"
+	thumbURL="thumbs/20170620_162553.jpg"
+	linkURL="images/20170620_162553.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Family\20170620_162553.jpg">
+    <title><![CDATA[20170620_162553]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170524_183728.jpg"
+	thumbURL="thumbs/20170524_183728.jpg"
+	linkURL="images/20170524_183728.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Family\20170524_183728.jpg">
+    <title><![CDATA[20170524_183728]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20170816-WA0003.jpg"
+	thumbURL="thumbs/IMG-20170816-WA0003.jpg"
+	linkURL="images/IMG-20170816-WA0003.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Avinash Nandakumar\Documents\Website\avinash\images\interests\photos\Family\IMG-20170816-WA0003.jpg">
+    <title><![CDATA[IMG-20170816-WA0003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
