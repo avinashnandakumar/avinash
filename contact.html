@@ -13,6 +13,7 @@ if($_POST["message"]) {
 	<link rel="stylesheet" href="css/general.css">
   	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	
 </head>
 <body>
 	<nav class="navbar navbar-default" style="margin-bottom: 0px;">
@@ -43,7 +44,22 @@ if($_POST["message"]) {
 		<h1> Contact Me </h1>
 	</div>
 	<br>
-	<form method="post" name="contact_form"
+
+	<div class="row">
+		<div class="col-sm-3"></div>
+		<div class="col-sm-6">
+			<div class="sidebar" style="text-align:center; font-size: 40px; background-color: #c3edd7; border-radius: 30px">  Send me an email at avinashnandakumar@berkeley.edu or avinashkumar1616@gmail.com
+
+			<br> <br>
+				Looking forward to connecting with you!
+			</div>
+
+
+		</div>
+		<div class="col-sm-3"></div>
+
+	</div>
+	<!--<form method="post" name="contact_form"
 		  action="contact-form-handler.php">
 		Your Name:
 		<input type="text" name="name">
@@ -55,16 +71,16 @@ if($_POST["message"]) {
 		<textarea name="message"></textarea>
 
 		<input type="submit" value="Submit">
-	</form>
-	<script language="JavaScript">
+	</form>-->
+	<!--<script language="JavaScript">
         var frmvalidator  = new Validator("contactform");
         frmvalidator.addValidation("name","req","Please provide your name");
         frmvalidator.addValidation("email","req","Please provide your email");
         frmvalidator.addValidation("email","email",
             "Please enter a valid email address");
-	</script>
+	</script>-->
 	<br>
-	<div class="row footer text-center" style="width: 100%">
+	<div class="row footer text-center" style="width: 100%; position:fixed; bottom: 0;">
 		<div class="col-lg-4"></div>
 		<div class="col-xs-3 col-lg-1">
 			<a target="_blank" href="https://www.linkedin.com/in/avinashnandakumar/"><img src="images/linkedin.png" alt="LinkedIn" title="LinkedIn" class="socialmedia"></a>
@@ -82,4 +98,6 @@ if($_POST["message"]) {
 	</div>
 
 </body>
+
+
 </html>
