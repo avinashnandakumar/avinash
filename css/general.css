@@ -2,8 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 @import url('https://fonts.googleapis.com/css?family=Archivo');
 body{
-	font-family: 'Indie Flower', cursive;
-	margin: 0px;
+	/*font-family: 'Indie Flower', cursive;*/
+    font-family: 'GlacialIndifferenceRegular';
+    font-weight: normal;
+    font-style: normal;
+    margin: 0px;
 	width: 100%;
 }
 .footer{

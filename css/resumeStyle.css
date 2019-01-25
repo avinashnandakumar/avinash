@@ -1,3 +1,8 @@
+body{
+    font-family: 'GlacialIndifferenceRegular';
+    font-weight: normal;
+    font-style: normal;
+}
 #myface{
 	width: 100%;
 	border-radius: 25px;
